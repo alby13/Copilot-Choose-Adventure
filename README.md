@@ -1,2 +1,23 @@
 # Copilot-Choose-Adventure
-Copilot AI Generated Choose Your Own Adventure Text Game
+
+November 2, 2024
+Copilot AI was tasked with creating (generating) a 'Choose Your Own Adventure' fantasy text game.
+
+### Copilot is accessed at https://copilot.microsoft.com
+
+We used this prompt to generate the game:
+~~~
+generate me a python program that is a text adventure game that uses random seed to randomize many aspects of what the player encounters. make it as complete as possible. it will function as an elaborate choose your own adventure but aspects of it randomize when the player plays it so no game plays like the last one. possible scenarios would be finding the treasure to win, encountering a pitfall and dieing, or random events that are all based on a fantasy setting
+~~~
+
+Then we refined the output:
+~~~
+make the game longer
+~~~
+
+Then we refined the output:
+~~~
+add more random possibilities
+~~~
+
+That resulted in the final code found in this repository.
