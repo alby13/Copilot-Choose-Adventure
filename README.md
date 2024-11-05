@@ -28,7 +28,7 @@ That resulted in the final code found in this repository.
 
 This requires Python to be installed.
 
-Download the .py file or copy and paste the conde into your own text file and name it game.py
+Download the .py file or copy and paste the code into your own text file and name it game.py
 
 Run the program by using the command <code>python3 game.py</code>
 
